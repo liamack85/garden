@@ -61,6 +61,7 @@
 }
 
 #level-9 {
+  display: grid;
 }
 .peas {
   grid-area: peas;
